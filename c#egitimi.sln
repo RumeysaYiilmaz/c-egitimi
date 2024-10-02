@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c#egitimi1", "c#egitimi1\c#egitimi1.csproj", "{09A9B103-B67C-4537-853E-6ACF4C71B663}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c#egitimi2", "c#egitimi2\c#egitimi2.csproj", "{649AF1C8-4947-494D-A737-BF753BA38134}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09A9B103-B67C-4537-853E-6ACF4C71B663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A9B103-B67C-4537-853E-6ACF4C71B663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A9B103-B67C-4537-853E-6ACF4C71B663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A9B103-B67C-4537-853E-6ACF4C71B663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{649AF1C8-4947-494D-A737-BF753BA38134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649AF1C8-4947-494D-A737-BF753BA38134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649AF1C8-4947-494D-A737-BF753BA38134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649AF1C8-4947-494D-A737-BF753BA38134}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {318C4374-C2A4-41AD-A8AE-5AB418427476}
+	EndGlobalSection
+EndGlobal
